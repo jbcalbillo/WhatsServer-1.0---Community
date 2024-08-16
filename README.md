@@ -54,3 +54,7 @@ Este proyecto es ideal para organizaciones de cualquier tamaño que necesiten un
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Capturas de Pantalla 📷
 
+# 🔵 Agregar Usuarios 🔵
+<a href="https://github.com/jbcalbillo"><img src="https://github.com/jbcalbillo/WhatsServer-1.0---Community/blob/main/Agregar%20Usuario.png?raw=true" width="250" height="250" alt="jbcalbillo"/></a>
+
+
