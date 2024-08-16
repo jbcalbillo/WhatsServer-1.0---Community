@@ -55,6 +55,13 @@ Este proyecto es ideal para organizaciones de cualquier tamaño que necesiten un
 # Capturas de Pantalla 📷
 
 # 🔵 Agregar Usuarios 🔵
-<a href="https://github.com/jbcalbillo"><img src="https://github.com/jbcalbillo/WhatsServer-1.0---Community/blob/main/Agregar%20Usuario.png?raw=true" width="250" height="250" alt="jbcalbillo"/></a>
-
+<a href="https://github.com/jbcalbillo"><img src="https://github.com/jbcalbillo/WhatsServer-1.0---Community/blob/main/Agregar%20Usuario.png" width="250" height="250" alt="jbcalbillo"/></a>
+# 🔵 Envío de Mensajes 🔵
+<a href="https://github.com/jbcalbillo"><img src="https://github.com/jbcalbillo/WhatsServer-1.0---Community/blob/main/Env%C3%ADo%20de%20Mensaje.png" width="250" height="250" alt="jbcalbillo"/></a>
+# 🔵 Envío de Plantilla 🔵
+<a href="https://github.com/jbcalbillo"><img src="https://github.com/jbcalbillo/WhatsServer-1.0---Community/blob/main/Env%C3%ADo%20de%20Plantilla.png" width="250" height="250" alt="jbcalbillo"/></a>
+# 🔵 Menú de Inicio 🔵
+<a href="https://github.com/jbcalbillo"><img src="https://github.com/jbcalbillo/WhatsServer-1.0---Community/blob/main/Men%C3%BA%20Inicio.png" width="250" height="250" alt="jbcalbillo"/></a>
+# 🔵 Menú de Mensajes 🔵
+<a href="https://github.com/jbcalbillo"><img src="https://github.com/jbcalbillo/WhatsServer-1.0---Community/blob/main/Men%C3%BA%20Mensajes.png" width="250" height="250" alt="jbcalbillo"/></a>
 
