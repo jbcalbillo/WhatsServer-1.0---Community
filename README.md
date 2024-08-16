@@ -1,13 +1,14 @@
 
-<h1 align="center">WhatsServer 1.0 - Console Edition <img src="https://media.tenor.com/RY9NX67klacAAAAi/sad-cute.gif" width="190px"><br></h1>
+<h1 align="center">WhatsServer 1.0 - Console Edition <a><img src='https://cdn-icons-png.flaticon.com/512/6033/6033716.png' width="128" height="128"/></a> <a><img src='https://cdn-icons-png.flaticon.com/512/2111/2111728.png' width="128" height="128"/><br></a><br></h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src="https://media.tenor.com/RY9NX67klacAAAAi/sad-cute.gif" width="190px">
 
+#  WHATSERVER CONSOLE EDITION
 
-# 💾 WHATSERVER CONSOLE EDITION 👾
 
 Es un backend diseñado para utilizar WhatsApp como herramienta de comunicación interna dentro de organizaciones. Este proyecto es ideal para equipos que necesitan un método eficaz para coordinarse y enviar mensajes tanto individuales como masivos a través de WhatsApp, permitiendo gestionar áreas, departamentos, o usuarios individuales.
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
 
 # 🔵 Descripción 🔵
 
