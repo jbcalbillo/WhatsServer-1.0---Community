@@ -1,27 +1,56 @@
-# WhatsServer-1.0---Community
- Backend para usar Whatsapp como Comunicación Interna
-	
- ESPERO Y LES SIRVA DE ALGO :)
 
- Esta pensado para servir como método de comunicación Interna.
+<h1 align="center">WhatsServer 1.0 - Console Edition <img src="https://media.tenor.com/RY9NX67klacAAAAi/sad-cute.gif" width="190px"><br></h1>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- Se recomienda conectarlo a una base de datos, ya que de esa manera extrae los números, envía mensajes por 3 métodos:
-	
- -Por Area o Departamento
-	
- -Indivisuales
-	
- -A toda la base de datos cargada
-	
-GENERA LOGS (WEBHOOK) de lo enviado y recibido
-![WHASTSERVER](https://github.com/user-attachments/assets/36a6b782-140a-4882-a88f-606c21523bea)
 
- ![image](https://github.com/user-attachments/assets/a3689b7b-5c30-46ea-864a-6a4098505bb1)
-	AGREGA USUARIOS
-![Agregar Usuario](https://github.com/user-attachments/assets/9a8cff41-7c98-4da6-be9b-0d8db67328ff)
-MENÚ DE INICIO
-![Menú Inicio](https://github.com/user-attachments/assets/6864ffd9-680b-4eeb-8837-d7fffd89b691)
-ENVÍO DE MENSAJES
-![Envío de Mensaje](https://github.com/user-attachments/assets/3b92d1ce-64e8-404c-a92d-5efa75f7e862)
-ENVÍO DE PLANTILLAS
-![Envío de Plantilla](https://github.com/user-attachments/assets/e30223e5-42db-478b-90d0-ab9bd411794f)
+# 💾 WHATSERVER CONSOLE EDITION 👾
+
+Es un backend diseñado para utilizar WhatsApp como herramienta de comunicación interna dentro de organizaciones. Este proyecto es ideal para equipos que necesitan un método eficaz para coordinarse y enviar mensajes tanto individuales como masivos a través de WhatsApp, permitiendo gestionar áreas, departamentos, o usuarios individuales.
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+# 🔵 Descripción 🔵
+
+<h3> WhatsServer 1.0 permite enviar mensajes a través de tres métodos distintos: </h3>
+
+<h3> Por Área o Departamento: </h3>
+Facilita la comunicación segmentada por grupos específicos dentro de la organización.
+<h3> Individuales: </h3>
+Envía mensajes a usuarios específicos de manera directa.
+<h3> Masivos: </h3>
+Envía mensajes a todos los usuarios de la base de datos cargada.
+
+Además, el sistema genera logs detallados de todos los mensajes enviados y recibidos a través de un webhook, proporcionando un historial completo de comunicación.
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# 🔵 Características 🔵
+
+
+<h3> Gestión de Usuarios: </h3>
+Añade, actualiza y elimina usuarios en la base de datos fácilmente.
+<h3>Envío de Mensajes Personalizados: </h3> 
+Eenvío de mensajes específicos a usuarios individuales o grupos.
+<h3>Plantillas de Mensajes: </h3>
+Configura y envía mensajes predefinidos para agilizar la comunicación.
+<h3>Generación de Logs: </h3>
+Mantén un registro de todas las interacciones para auditorías o seguimiento.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+# 🔵 Ventajas 🔵
+
+<h3>Escalabilidad:</h3> 
+Puede integrarse con bases de datos para gestionar grandes volúmenes de usuarios.
+<h3>Flexibilidad:</h3> 
+Admite múltiples métodos de envío, desde comunicación segmentada hasta masiva.
+<h3>Auditoría Completa:</h3> 
+Los logs detallados permiten un control total de la comunicación.
+<h3>Facilidad de Uso:</h3> 
+La interfaz gráfica intuitiva simplifica la gestión y el envío de mensajes.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+# 🔵 Alcance 🔵
+
+Este proyecto es ideal para organizaciones de cualquier tamaño que necesiten una solución interna de comunicación confiable y personalizable a través de WhatsApp. Además, WhatsServer 1.0 es un excelente punto de partida para desarrolladores que buscan ampliar sus funcionalidades o integrarlo en sistemas más complejos.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# Capturas de Pantalla 📷
+
