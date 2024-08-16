@@ -1,0 +1,7 @@
+Mensaje de tipo Individual
+Mensaje individual enviado a: 5519114644
+Mensaje de tipo Plantilla Individual
+Plantilla individual enviada a: 5519114644
+Nombre de plantilla enviada: "presentacion"
+Hora de envío: 12/8/2024, 8:12:21 p.m.
+Total de plantillas enviadas: 1

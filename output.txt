@@ -1,0 +1,30 @@
+
+Mensaje de tipo Individual
+Mensaje individual enviado a: 5519114644
+Mensaje del texto enviado: "RESPALDO LOGS 2"
+Hora de envío: 12/8/2024, 9:47:48 p.m.
+Mensaje no: 1
+
+Mensaje de tipo Individual
+Mensaje individual enviado a: 5519114644
+Mensaje del texto enviado: "354"
+Hora de envío: 13/8/2024, 1:45:39 a.m.
+Mensaje no: 1
+
+Mensaje de tipo Individual
+Mensaje individual enviado a: 5519114644
+Mensaje del texto enviado: "FDGHFGDHFGHFGHFGHFGHFG"
+Hora de envío: 13/8/2024, 2:35:56 a.m.
+Mensaje no: 1
+
+Mensaje de tipo Plantilla Individual
+Plantilla individual enviada a: 5519114644
+Nombre de plantilla enviada: "statement_available_2"
+Hora de envío: 13/8/2024, 3:33:45 p.m.
+Total de plantillas enviadas: [object Object]
+
+Mensaje de tipo Individual
+Mensaje individual enviado a: 5519114644
+Mensaje del texto enviado: "hola"
+Hora de envío: 15/8/2024, 11:39:19 p.m.
+Mensaje no: 1
